@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp">
+
+
+
+    <TextView
+        android:id="@+id/textid"
+        android:text="ID"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/textname"
+        android:text="Name"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/textgender"
+        android:text="Gender"
+        android:layout_width="25dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/textage"
+        android:text="Age"
+        android:layout_width="25dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/textmob"
+        android:text="Phone No."
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/textaddress"
+        android:text="Address"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/textdetails"
+        android:text="Details"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/textother"
+        android:text="Other(s)"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+
+</LinearLayout>

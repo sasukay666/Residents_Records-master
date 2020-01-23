@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Residents\' Records</string>
+    <string-array name="notification_tones">
+        <item>Argon</item>
+        <item>Helium</item>
+        <item>Krypton</item>
+        <item>Xenon</item>
+    </string-array>
+    <string-array name="gender_options">
+        <item>- No Selection -</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
